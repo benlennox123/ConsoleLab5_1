@@ -10,7 +10,7 @@ namespace ConsoleLab5_1
     {
         static void Main(string[] args)
         {
-            int n = 7;
+            const int n = 7;
             double[] array = new double[n];
             int t = 1;
             double Sum=0;
